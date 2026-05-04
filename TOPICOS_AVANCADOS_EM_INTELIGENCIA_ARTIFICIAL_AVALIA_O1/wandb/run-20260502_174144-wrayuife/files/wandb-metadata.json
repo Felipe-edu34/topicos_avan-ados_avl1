@@ -1,0 +1,28 @@
+{
+  "os":  "Linux-6.17.0-22-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2026-05-02T20:41:44.064744Z",
+  "program":  "/home/felipe/dev/topicos_avançados_avl1/TOPICOS_AVANCADOS_EM_INTELIGENCIA_ARTIFICIAL_AVALIA_O1/avaliacao1.ipynb",
+  "codePath":  "/home/felipe/dev/topicos_avançados_avl1/TOPICOS_AVANCADOS_EM_INTELIGENCIA_ARTIFICIAL_AVALIA_O1/avaliacao1.ipynb",
+  "codePathLocal":  "avaliacao1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Felipe-edu34/TOPICOS_AVANCADOS_EM_INTELIGENCIA_ARTIFICIAL_AVALIA_O1.git",
+    "commit":  "692bbbbbf819a986d676187addbee9cf7a40800e"
+  },
+  "email":  "felipe.fernandes.710@ufrn.edu.br",
+  "root":  "/home/felipe/dev/topicos_avançados_avl1/TOPICOS_AVANCADOS_EM_INTELIGENCIA_ARTIFICIAL_AVALIA_O1",
+  "host":  "felipe-IdeaPad-1-15IAU7",
+  "executable":  "/home/felipe/dev/topicos_avançados_avl1/.venv/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "100671942656",
+      "used":  "85413883904"
+    }
+  },
+  "memory":  {
+    "total":  "12251369472"
+  },
+  "writerId":  "a33479vcfy27a2j329ciagjytgril2rt"
+}
