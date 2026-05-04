@@ -74,7 +74,7 @@ Para garantir a reprodutibilidade e o monitoramento em tempo real (conforme as d
 ## 🚀 5. Como Executar
 
 1. clone o repositorio
-git clone [https://github.com/SEU_USUARIO/projeto-obesidade-ia.git](https://github.com/Felipe-edu34/topicos_avan-ados_avl1.git)
+git clone https://github.com/Felipe-edu34/topicos_avan-ados_avl1.git
 cd projeto-obesidade-ia
 
 2. Crie o ambiente virtual e instale as dependências:
